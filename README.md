@@ -31,9 +31,13 @@ The AI Based Face Recognition Attendance System represents an innovative solutio
 ---
 ## 📸 Application Demo
 
-(I strongly recommend adding a screenshot or GIF of your Streamlit app in action here. This is the most effective way to show a professor what you built.)
 
-![Screenshot of the Streamlit App](app_screenshot.png)
+![Screenshot of the Attendance Report Tab](Attendance Report Tab.png)
+![Screenshot of the Real Time Prediction](Real Time Prediction.png)
+![Screenshot of the Registration Form](Registration Form.png)
+![Screenshot of the Registered Data Tab](Registered Data Tab.png)
+![Screenshot of the Logs Tab](Logs Tab.png)
+![Screenshot of the Deployment of the system on AWS server](Deployment of the system on AWS server.png)
 
 ---
 
